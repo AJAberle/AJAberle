@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AJAberle
-- 👀 I’m interested in coding and digital design. 
-- 🌱 I’m currently learning programming in Unity. 
+- 👀 I’m interested in coding, computers, and video game development. 
+- 🌱 I’m currently learning Unreal Engine and Blender. 
 
 <!---
 AJAberle/AJAberle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
