@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AJAberle
-- 👀 I’m interested in coding, computers, and video game development. 
+- 👀 I’m interested in 3D printing, drones, CAD, and video game development. 
 - 🌱 I’m currently learning Unreal Engine and Blender. 
 
 <!---
